@@ -28,11 +28,11 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HensemLin/react-todo-list-app.git
+   git clone https://github.com/HensemLin/learn_react_js-full_course_for_beginners_tutorial_2019.git
     ```
 2. Navigate to the project directory
    ```bash
-   cd react-todo-list-app
+   cd learn_react_js-full_course_for_beginners_tutorial_2019
     ```
 3. Install dependencies
    ```bash
